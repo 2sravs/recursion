@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\Recursion\Recursion\obj\Debug\Recursion.pdb
